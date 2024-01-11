@@ -1,4 +1,4 @@
-/* Practice Task 1*/
+/* Task 1*/
 
 /* Write a program that takes a number from the user and prints the day of the week accordingly.*/
 
