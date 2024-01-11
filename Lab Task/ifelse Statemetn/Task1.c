@@ -1,4 +1,4 @@
-// Write a Program to check whether a character is vowel or not
+// Write a Program to check whether a character is vowel or not using if else statement.
 
 #include <stdio.h>
 #include <conio.h>
