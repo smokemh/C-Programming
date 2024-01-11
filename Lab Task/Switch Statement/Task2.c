@@ -1,4 +1,4 @@
-/* Practice task 2*/
+/* Task 2*/
 
 /* Write a program that takes two numbers A and B as input and an operator opcode (+, -, *, /) and performs the operation on A and B. */
 

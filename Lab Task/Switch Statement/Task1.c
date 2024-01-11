@@ -2,12 +2,6 @@
 
 /* Write a program that takes a number from the user and prints the day of the week accordingly.*/
 
-/* For example, if the user enters 0, the program should print Sunday, if the user enters 1, the program should print Monday, and so on.*/
-
-/* If the user enters a number other than 0 to 6, the program should print an error message.*/
-
-/* Use switch statement to implement the program.*/
-
 #include <stdio.h>
 void main()
 {
