@@ -35,3 +35,5 @@ void main()
         printf("invalid day \n");
     }
 }
+
+/* END */
