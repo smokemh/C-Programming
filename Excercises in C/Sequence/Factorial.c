@@ -1,3 +1,5 @@
+// Write a C Program to find a factorial of the input number
+
 #include<stdio.h>
 
 void main()
