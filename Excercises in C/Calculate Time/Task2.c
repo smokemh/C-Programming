@@ -12,6 +12,5 @@ scanf("%d", &num1);
 		 else {          num1 =num1*10;       }        }    }   
  else {       num1 =num1 + 30;    }         
  printf("Num1 = %d\n",num1); 
- }   
- 
+ }  
 
