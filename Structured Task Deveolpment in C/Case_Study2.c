@@ -1,5 +1,4 @@
-
-/////// Case Study 1 ///////
+/////// Case Study 2 ///////
 /////// Sentinel-Controlled Repetition ///////
 
 /////// Pseudocode ///////
