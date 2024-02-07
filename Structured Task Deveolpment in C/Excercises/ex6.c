@@ -1,7 +1,7 @@
 // Write a program that uses looping to print the following table of values. Use the tab escape sequence, \t, in the printf statement to separate the columns with tabs.
 
-// N       10*N    100*N   1000*N
-// 1       10      100     1000
+//  N       10*N    100*N   1000*N
+//  1       10      100     1000
 //  2       20      200     2000
 //  3       30      300     3000
 //  4       40      400     4000
