@@ -8,13 +8,7 @@
   - [Excercises](/Introduction%20To%20C%20Language/Excercises/)
       - [Basic Arithmetic Operations](/Introduction%20To%20C%20Language/Excercises/ex1.c/)
       - [Print Values using printf](/Introduction%20To%20C%20Language/Excercises/ex2.c/)
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
+    
   
 
 - [Structured Task Development in C](#structured-task-development-in-c)
