@@ -20,6 +20,12 @@
     
 - [Structured Task Development in C](/Structured%20Task%20Deveolpment%20in%20C/)
   - [How to Use Basic If Else Statement](/Structured%20Task%20Deveolpment%20in%20C//ifelse.c/)
+  - [Nested If Else](/Structured%20Task%20Deveolpment%20in%20C//nestedifelse.c/)
+  - [Conditional Operator Syntex and Application](/Structured%20Task%20Deveolpment%20in%20C//conditionalOperator.c/)
+  - [While Loop](/Structured%20Task%20Deveolpment%20in%20C//whileloop.c/)
+  - [Case Study 1 : Counter Controlled Repetition](/Structured%20Task%20Deveolpment%20in%20C//Case_Study1.c/)
+  - [Case Study 2 : Sentinel-Controlled Repetition](/Structured%20Task%20Deveolpment%20in%20C//Case_Study2.c/)
+  - [Case Study 3 : Nested Controlled Repetition](/Structured%20Task%20Deveolpment%20in%20C//Case_Study3.c/)
   - [Excercises](/Structured%20Task%20Deveolpment%20in%20C//Excercises/)
     - [Credit Limit Calculator](/Structured%20Task%20Deveolpment%20in%20C//Excercises/ex1.c/)
    
