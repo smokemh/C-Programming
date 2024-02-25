@@ -18,7 +18,12 @@
       - [Basic BMI calculator application](/Introduction%20To%20C%20Language/Excercises/ex10.c/)
       - [Car-Pool Savings Calculator](/Introduction%20To%20C%20Language/Excercises/ex11.c/)
     
-- [Structured Task Development in C](#structured-task-development-in-c)
+- [Structured Task Development in C](/Structured%20Task%20Deveolpment%20in%20C/)
+  - [How to Use Basic If Else Statement](/Structured%20Task%20Deveolpment%20in%20C//ifelse.c/)
+  - [Excercises](/Structured%20Task%20Deveolpment%20in%20C//Excercises/)
+    - [Credit Limit Calculator](/Structured%20Task%20Deveolpment%20in%20C//Excercises/)ex1.c/)
+   
+
 - [C Program Control](#c-program-control)
 - [C Functions](#c-functions)
 - [Exercises in C](#exercises-in-c)
