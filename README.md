@@ -21,7 +21,7 @@
 - [Structured Task Development in C](/Structured%20Task%20Deveolpment%20in%20C/)
   - [How to Use Basic If Else Statement](/Structured%20Task%20Deveolpment%20in%20C//ifelse.c/)
   - [Excercises](/Structured%20Task%20Deveolpment%20in%20C//Excercises/)
-    - [Credit Limit Calculator](/Structured%20Task%20Deveolpment%20in%20C//Excercises/)ex1.c/)
+    - [Credit Limit Calculator](/Structured%20Task%20Deveolpment%20in%20C//Excercises/ex1.c/)
    
 
 - [C Program Control](#c-program-control)
