@@ -44,7 +44,15 @@
     - [Target Heart Rate](/Structured%20Task%20Deveolpment%20in%20C//Excercises/ex15.c/)
     - [Encryption And Decryption](/Structured%20Task%20Deveolpment%20in%20C//Excercises/ex16.c/)
    
+- [C Program Control](/C%20Program%20Control/)
+  - [Do While](/C%20Program%20Control//do%20while%20Repetition%20Statement%20.c/)
+  - [For Loop with Repetition](/C%20Program%20Control//for%20Repetition%20Statement.c/)
+  - [Examples Using the for Statement](/C%20Program%20Control//Examples%20Using%20the%20for%20Statement.c/)
+  - [Switch Operation](/C%20Program%20Control//switch%20Multiple-Selection%20Statement.c/)
+  - [Counter Controlled Repetition](/C%20Program%20Control//Counter-Controlled%20Repetition.c/)
+  - [Application:Compound Interest Calculations](/C%20Program%20Control//Application%20Compound-Interest%20Calculations.c/)
+  - [Excercises](/C%20Program%20Control//Excercises/)
+    - [Sum a Sequence of Integers](/C%20Program%20Control//Excercises/ex1.c/)
 
-- [C Program Control](#c-program-control)
 - [C Functions](#c-functions)
 - [Exercises in C](#exercises-in-c)
