@@ -51,8 +51,8 @@
   - [Switch Operation](/C%20Program%20Control//switch%20Multiple-Selection%20Statement.c/)
   - [Counter Controlled Repetition](/C%20Program%20Control//Counter-Controlled%20Repetition.c/)
   - [Application:Compound Interest Calculations](/C%20Program%20Control//Application%20Compound-Interest%20Calculations.c/)
-  - [Excercises](/C%20Program%20Control//Excercises/)
-    - [Sum a Sequence of Integers](/C%20Program%20Control//Excercises/ex1.c/)
+  - [Excercises](/C%20Program%20Control//Excercise/)
+    - [Sum a Sequence of Integers](/C%20Program%20Control//Excercise/ex1.c/)
 
 - [C Functions](#c-functions)
 - [Exercises in C](#exercises-in-c)
