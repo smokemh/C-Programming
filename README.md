@@ -83,5 +83,5 @@
    - [Example: A Game of Chance](/C%20Functions//Example%20A%20Game%20of%20Chance.c/)
    - [Example: Recursion Fibonacci Series](/C%20Functions//Example%20Recursion%20Fibonacci%20Series.c/)
    - [Excercises](/C%20Functions//Exercises/)
-    - [Parking Charge Calculator](/C%20Functions//Exercises/ex1.c/)
+     - [Parking Charge Calculator](/C%20Functions//Exercises/ex1.c/)
 
