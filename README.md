@@ -82,6 +82,6 @@
    - [Rolling a Six-Sided Die 6,000,000 Times](/C%20Functions//Rolling%20a%20Six-Sided%20Die%206,000,000%20Times.c/)
    - [Example: A Game of Chance](/C%20Functions//Example%20A%20Game%20of%20Chance.c/)
    - [Example: Recursion Fibonacci Series](/C%20Functions//Example%20Recursion%20Fibonacci%20Series.c/)
-   - [Excercises](/CC%20Functions//Exercises/)
-    - [Parking Charge Calculator](/CC%20Functions//Exercises/ex1.c/)
+   - [Excercises](/C%20Functions//Exercises/)
+    - [Parking Charge Calculator](/C%20Functions//Exercises/ex1.c/)
 
